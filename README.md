@@ -1,3 +1,18 @@
+# Music Player UI Template
+
+![image](https://user-images.githubusercontent.com/23053807/152005164-79fab4f1-614b-40d5-976d-99e42a173e6e.png)
+
+
+![image](https://user-images.githubusercontent.com/23053807/152005083-0a77a66f-bd35-49e1-9fcf-53c0fb8c1286.png)
+![image](https://user-images.githubusercontent.com/23053807/152005115-90cac044-e170-425d-9e26-2927599da96d.png)
+
+
+
+https://user-images.githubusercontent.com/23053807/152005634-8bd60805-ced2-4c7d-8786-8b7a3ce7b45f.mp4
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
